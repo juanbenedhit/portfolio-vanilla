@@ -99,7 +99,7 @@ body {
     color: #bfbbff;
 }
 
-/* Hamburger Menu for Small Screens */
+/* Hamburger */
 .hamburger {
     display: none;
     cursor: pointer;
